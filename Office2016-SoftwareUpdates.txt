@@ -1,0 +1,114 @@
+Security Update for Microsoft Access 2016 (KB2910978) 32-Bit Edition
+
+Security Update for Microsoft Excel 2016 (KB3178673) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB2920727) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3085538) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3114375) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3114690) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3115103) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3115135) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3178703) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3191863) 32-Bit Edition
+
+Security Update for Microsoft Office 2016 (KB3191881) 32-Bit Edition
+
+Security Update for Microsoft OneNote 2016 (KB3115419) 32-Bit Edition
+
+Security Update for Microsoft Outlook 2016 (KB3178664) 32-Bit Edition
+
+Security Update for Microsoft PowerPoint 2016 (KB3114518) 32-Bit Edition
+
+Security Update for Microsoft Project 2016 (KB2920698) 32-Bit Edition
+
+Security Update for Microsoft Publisher 2016 (KB2920680) 32-Bit Edition
+
+Security Update for Microsoft Visio 2016 (KB3115041) 32-Bit Edition
+Security Update for Microsoft Word 2016 (KB3191865) 32-Bit Edition
+
+Security Update for Skype for Business 2016 (KB3191858) 32-Bit Edition
+
+Update for Microsoft Access 2016 (KB3178700) 32-Bit Edition
+
+Update for Microsoft Excel 2016 (KB3191861) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2910954) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2910970) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2910990) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2920678) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2920684) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2920712) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2920720) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB2920724) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3114709) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3114903) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3115081) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3115100) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3115276) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3115501) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3118262) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3118263) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3118264) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3127991) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3128050) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3141454) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3141506) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3141509) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3178658) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3178666) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3178692) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3178702) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3191857) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3191862) 32-Bit Edition
+
+Update for Microsoft Office 2016 (KB3191867) 32-Bit Edition
+
+Update for Microsoft Office 2016 Language Interface Pack (KB3191866) 32-Bit Edition
+
+Update for Microsoft OneDrive for Business (KB3141458) 32-Bit Edition
+
+Update for Microsoft OneNote 2016 (KB3141512) 32-Bit Edition
+
+Update for Microsoft Outlook 2016 (KB3191883) 32-Bit Edition
+
+Update for Microsoft PowerPoint 2016 (KB3191860) 32-Bit Edition
+
+Update for Microsoft Project 2016 (KB3191870) 32-Bit Edition
+
+Update for Microsoft Publisher 2016 (KB3128047) 32-Bit Edition
+
+Update for Microsoft Visio 2016 (KB3191856) 32-Bit Edition
